@@ -107,3 +107,9 @@
 
 2. **JWT**  
    클라이언트와 서버 간에 안전하게 정보를 전달할 수 있게 해주며, 서버가 매 요청마다 인증을 확인할 필요 없이 JWT 토큰을 통해 사용자를 식별할 수 있습니다. 이를 통해 애플리케이션의 성능을 높이고, 사용자 인증을 효율적으로 처리할 수 있습니다.
+
+api명세
+![image](https://github.com/user-attachments/assets/2309c0a6-c93e-4138-aef5-cc2d99f2c8f5)
+테스트케이스
+![image](https://github.com/user-attachments/assets/735ba13d-0f81-4dcb-a8c9-4a344a76eeab)
+
