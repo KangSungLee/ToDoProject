@@ -141,5 +141,6 @@ AppRoutes는 애플리케이션 내의 **라우팅을 관리**하는 컴포넌�
 ![API 명세](https://github.com/user-attachments/assets/2309c0a6-c93e-4138-aef5-cc2d99f2c8f5)
 
 ### 📌 테스트 케이스
-![테스트 케이스](https://github.com/user-attachments/assets/735ba13d-0f81-4dcb-a8c9-4a344a76eeab)
+
+![테스트 케이스](https://github.com/user-attachments/assets/ce4ecb09-ae23-47ee-9383-b0640509226f)
 
