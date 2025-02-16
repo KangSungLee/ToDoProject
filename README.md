@@ -62,12 +62,25 @@
 ### 1. 프론트엔드 실행
 
 1. **Node.js 설치**  
-   프론트엔드 앱은 **Node.js**를 사용하므로 먼저 Node.js가 설치되어 있어야 합니다. [Node.js 공식 웹사이트](https://nodejs.org/)에서 다운로드 후 설치하세요.
+   프론트엔드 앱은 **Node.js**를 사용하므로 먼저 Node.js가 설치되어 있어야 합니다.
 
 2. **의존성 설치**  
-   프로젝트 디렉터리로 이동하여 아래 명령어를 실행합니다:
-   ```bash
-   cd frontend
+   프로젝트 디렉터리로 이동하여 아래 명령어를 실행합니다: 
+   cd ToDoProject-main/src/main/resources/todo
    npm install
+
+2. **프론트엔드 실행**  
+   다음 명령어를 실행하여 React 앱을 실행합니다:
+   npm start
+
+### 2. 백엔드 실행
+
+1. **Java 설치**  
+   백엔드는 Spring Boot로 작성되어 있으므로 Java 17 이상이 필요합니다. 
+
+2. **백엔드 실행**  
+   프로젝트 디렉터리로 이동하여 아래 명령어를 실행합니다: 
+   cd ToDoProject-main/src/main/resources/todo
+   java -jar ToDo-0.0.1-SNAPSHOT.jar
 
 
