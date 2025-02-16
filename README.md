@@ -80,7 +80,13 @@
 
 2. **백엔드 실행**  
    프로젝트 디렉터리로 이동하여 아래 명령어를 실행합니다: 
-   cd ToDoProject-main/src/main/resources/todo
+   cd ToDoProject-main
    java -jar ToDo-0.0.1-SNAPSHOT.jar
 
+### 3. 데이터베이스 설정
 
+1. **MySQL 설치**  
+   프로젝트는 MySQL을 사용하여 데이터베이스를 설정합니다.
+
+2. **데이터베이스 생성**  
+   프로젝트 폴더에 toDB.sql를 실행하면 데이터베이스가 생성됩니다.
